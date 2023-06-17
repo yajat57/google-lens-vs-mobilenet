@@ -1,0 +1,52 @@
+p{
+    color: red;
+    letter-spacing: 2px;
+    font-size: 15px;
+}
+.mobilenet {
+    letter-spacing: 2px;
+}
+.google_lens {
+    letter-spacing: 2px;
+}
+.img {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    height: 300px;
+    border-radius: 10px;
+}
+.white1{
+    color: white;
+}
+span{
+    letter-spacing: 1px;
+    color: red;
+}
+b{
+    color: blueviolet;
+}
+.first,.second{
+    background-color: aliceblue;
+    border-radius: 10px;
+    line-height: 2;
+}
+.test_image_and_result1{
+    margin-top: 15px;
+    background-color: bisque;
+    border-radius: 10px;
+    box-shadow: 1px 1px 25px grey;
+    width: 99%;
+    margin-bottom: 15px;
+}
+h4{
+    color: white;
+    font-weight: bold;
+}
+.bottom{
+    color: red;
+    position: fixed;
+    bottom:0;
+    text-align: center;
+    width: 100%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
